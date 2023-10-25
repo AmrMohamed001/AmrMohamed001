@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/embed/Y1vohJMVMtjSQxmUot)](https://rishavchanda.io)
+[![MasterHead](https://www.horizont.com.hr/posao/backend-developer.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Amr mohamed</h1>
 <h3 align="center">Just a nodejs backend</h3>
